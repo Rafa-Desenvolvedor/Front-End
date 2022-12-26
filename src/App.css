@@ -1,0 +1,14 @@
+form{
+  text-align: center;
+}
+
+form input{
+  margin: 20px;
+}
+
+form input[type='button']{
+  text-align: right;
+}
+table{
+  text-align: center;
+}
